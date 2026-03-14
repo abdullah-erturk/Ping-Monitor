@@ -22,6 +22,9 @@ This project is an enterprise monitoring service that simultaneously tracks targ
 
 ---
 
+## Download Link:
+[![Stable?](https://img.shields.io/badge/Release-v1.svg?style=flat)](https://github.com/abdullah-erturk/Ping-Monitor/archive/refs/heads/main.zip)
+
 <details>
 <summary><strong>Türkçe Tanıtım</strong></summary>
 
