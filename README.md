@@ -128,6 +128,6 @@ The application operates with the following logic for enterprise continuity and 
 
 Made with ❤️ by [Abdullah ERTÜRK](https://github.com/abdullah-erturk)
 
-[🌐 erturk.netlify.app](https://erturk.netlify.app)
+[🌐 erturk-dev.netlify.app](https://erturk-dev.netlify.app)
 
 </div>
